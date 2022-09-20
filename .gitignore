@@ -1,0 +1,13 @@
+﻿.vs
+.vsconfig
+/Assembly-CSharp.csproj
+/Assets/Prefabs/
+/Assets/Scenes/
+/Assets/Source/
+/Library
+/Logs
+/Packages
+/ProjectSettings
+/UserSettings
+/mevsz.sln
+/obj
